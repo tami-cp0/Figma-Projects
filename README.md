@@ -2,5 +2,5 @@
 
 > **This project only contains simple Mobile Application Designs**
 
-- [Food app - Lattofatto](./lattofatto)
+- **Food app -** [Lattofatto](./lattofatto)
 
