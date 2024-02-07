@@ -1,5 +1,6 @@
 # Figma projects
 
-> **This project only contains simple Figma Designs**
+> **This project only contains simple Mobile Application Designs**
 
-- [!Food app](./lattofatto)
+- [Food app - Lattofatto](./lattofatto)
+
